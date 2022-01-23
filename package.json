@@ -1,0 +1,14 @@
+{
+  "engines": {
+    "node": "12",
+    "npm": "*",
+    "discord.js": "^12.0.0"
+  },
+  "author": "Silence#6455 aka Shane Yeo",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.0.0",
+    "dotenv": "^8.2.0",
+    "jquery": "^3.5.1"
+  }
+}
