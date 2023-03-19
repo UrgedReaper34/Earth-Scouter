@@ -228,7 +228,7 @@ function errorMessage(type, extraMessage){
                                     { name: 'Help', value: 'Displays the guide', inline: true },
                                     { name: 'Modrole', value: `Assign a role, to allow control of the bot.\n\n*Usage:*:\n${prefixes[0]} modrole [role id/ping]`, inline: true },
                                     { name: 'View', value: `View your achievements. Mention a person to view their achievements. \n\n*Usage:*:\n${prefixes[0]} view [person id/ping]`, inline: true },
-                                    { name: 'Insult', value: `Ping a person to insult them\n\n*Usage:*:\n${prefixes[0]} insult [person id/ping]`, inline: true },
+                                    //{ name: 'Insult', value: `Ping a person to insult them\n\n*Usage:*:\n${prefixes[0]} insult [person id/ping]`, inline: true },
                                 )
                                 
                                 
